@@ -1,0 +1,11 @@
+config:
+  APP_NAME: "Turntable"
+  APP_VERSION: "0.0"
+  DATABASE_POSTGRES_41:
+    HOST: "192.168.1.41"
+    PORT: "5532"
+    NAME: "postgres"
+    USER: "postgres"
+    PASSWORD: "YWRtaW4="
+  DEBUG: true
+  TESTING: false
